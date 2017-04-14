@@ -1,0 +1,22 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "Simple node app to generate flashcards.",
+  "main": "flashcards.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dusterdieck/Flashcard-Generator.git"
+  },
+  "author": "Timothy Dusterdieck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dusterdieck/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/dusterdieck/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6"
+  }
+}
